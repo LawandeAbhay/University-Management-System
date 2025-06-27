@@ -89,7 +89,7 @@ This project is designed to simplify the management of universities by automatin
    ```bash
    git clone https://github.com/your-username/UniversityManagementSystem.git
    
-   cd UniversityManagementSystem/src/UniversityManagementSytem
+   cd src/UniversityManagementSytem
 
    javac Splash.java
 

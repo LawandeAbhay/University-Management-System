@@ -88,4 +88,9 @@ This project is designed to simplify the management of universities by automatin
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/UniversityManagementSystem.git
-   cd UniversityManagementSystem
+   
+   cd UniversityManagementSystem/src/UniversityManagementSytem
+
+   java splash.java
+
+   javac splash

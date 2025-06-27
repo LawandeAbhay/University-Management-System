@@ -87,7 +87,7 @@ This project is designed to simplify the management of universities by automatin
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/UniversityManagementSystem.git
+   [git clone https://github.com/your-username/UniversityManagementSystem.git](https://github.com/LawandeAbhay/University-Management-System.git
    
    cd src/UniversityManagementSytem
 

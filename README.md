@@ -91,6 +91,6 @@ This project is designed to simplify the management of universities by automatin
    
    cd UniversityManagementSystem/src/UniversityManagementSytem
 
-   java splash.java
+   javac Splash.java
 
-   javac splash
+   java Splash
